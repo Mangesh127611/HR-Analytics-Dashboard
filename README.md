@@ -15,7 +15,9 @@ Interactive **Power BI** dashboard analyzing employee attrition, workforce demog
 
 ## Dashboard preview
 
-<!-- Add a screenshot here, for example: ![HR Dashboard](images/your-file-name.png) -->
+![HR Dashboard](images/HR Analytics Dashboard.png)
+
+*Screenshot of the Power BI report — captured from Dashboard/HR Analytics.pbix.*
 
 ## KPIs
 
